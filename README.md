@@ -1,7 +1,7 @@
 # pdf_42
 
 
-####There is present some subjects or corrections pdf (there is just text files for exams).
+####Here are present some subjects or corrections pdf (there are only text files for exams).
 
 
 #####subjects pdf:
@@ -15,7 +15,7 @@ c_<project>.pdf
 #####for examens, directory ares incoming...
 
 
-#####for piscines, there is a directory with same syntax adding:
+#####for piscines, there are a directory with same syntax adding the followings possibilities:
 
 s_d[X].pdf (for days),
 
